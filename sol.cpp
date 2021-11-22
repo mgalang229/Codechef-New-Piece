@@ -23,7 +23,7 @@ int main() {
 			
 			case 3: same color of cells
 			output: 2
-			reason: it is not possible to go ther using one (1) move
+			reason: it is not possible to go there using one (1) move
 				because two cells are the same and we need at least
 				one (1) more move to go to a different cell so that's
 				why the answer is two (2)
