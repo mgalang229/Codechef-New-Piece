@@ -19,14 +19,14 @@ int main() {
 			case 2: different colors of cells
 			output: 1
 			reason: it is possible to go there using one (1) move
-							since two cells are different from each other
+				since two cells are different from each other
 			
 			case 3: same color of cells
 			output: 2
 			reason: it is not possible to go ther using one (1) move
-							because two cells are the same and we need at least
-							one (1) more move to go to a different cell so that's
-							why the answer is two (2)
+				because two cells are the same and we need at least
+				one (1) more move to go to a different cell so that's
+				why the answer is two (2)
 			
 		*/
 		int a, b, p, q;
